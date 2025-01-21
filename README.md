@@ -1,12 +1,29 @@
-### Hola 👋, Mi nombre es Italo
-#### Soy Backend Developer
-![Soy Backend Developer]()
+# Hola 👋, Mi nombre es Ítalo  
+## Soy Backend Developer  
 
-Backend Developer con mas de 4 años de experiencia generando código para empresas de diferentes rubros. 
-Uno de mis proyectos personales más importantes fue la creación de un API para el envio de facturas a la Sunat.
+![Soy Backend Developer](#)  
 
-Habilidades: PHP / LARAVEL / WORDPRESS / JS / HTML / CSS
+Backend Developer con 5 años de experiencia desarrollando soluciones para empresas de diversos sectores.  
+Uno de mis proyectos personales más destacados fue la creación de una API para el envío de facturas electrónicas a la SUNAT.
 
-- 🔭 Estoy trabajando en this page. 
+### Habilidades  
+- **Lenguajes y Frameworks:**  
+  - PHP, Laravel, CodeIgniter  
+  - JavaScript, Node.js, Angular  
+  - Python (Flask)  
+  - Java (Maven)  
+  - Flutter  
 
+- **CMS:**  
+  - WordPress  
 
+- **Herramientas y Tecnologías:**  
+  - Git  
+  - Docker  
+  - Jira  
+
+- **Metodologías de trabajo:**  
+  - Scrum  
+  - Kanban  
+
+- 🔭 Actualmente, estoy trabajando en esta página.  
